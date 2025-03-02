@@ -6,8 +6,52 @@ This Power BI and Power Query project provides an in-depth analysis of **MSME (M
 ## 📁 Data Sources  
 - **[Udyam Registration Portal](https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm)**
 - **[MSME Dashboard (Ministry of MSME)](https://dashboard.msme.gov.in/dashboard.aspx)**
-- Government Reports & Economic Surveys  
+- **[MSME Finance Gap ](https://www.smefinanceforum.org/data-sites/msme-finance-gap)**
+- Government Reports & Economic Surveys
+- World Bank
 - Industry Research on MSME Financial Gaps  
+
+## 🛠️ Technologies Used
+- **Power BI** (Data Visualization & Interactive Dashboards)
+- **Power Query** (Data Transformation & ETL Processing)
+- **Excel / CSV** (Data Storage & Preprocessing)
+- **GitHub** (Project Repository & Documentation)
+
+  ## 🔍 Special Use of Power Query  
+
+Power Query played a **crucial role** in this project, enabling efficient **data extraction, transformation, and loading (ETL)** before visualization in Power BI. Given the **large and diverse data sources**, Power Query was instrumental in **cleaning, reshaping, and preparing** the dataset.  
+
+### 📌 Key Functions of Power Query in This Project  
+
+1️⃣ **Extracting Data from Multiple Sources**  
+   - Web Data Extraction: Direct connection to government websites such as **Udyam Registration Portal** and **MSME Dashboard**.  
+   - PDF Files: Processed reports, research papers, and government documents.  
+   - CSV Files: Integrated structured datasets from official sources.  
+   - Excel Files: Merged and cleaned Excel-based data for further analysis.  
+
+2️⃣ **Data Transformation Techniques**  
+   - **Unpivot Columns**: Converted wide-format data into a **long format** for better analysis.  
+   - **Custom Columns**: Created calculated fields for **financial gap analysis, gender-based MSME insights**, and growth trends.  
+   - **Merge Queries**: Combined multiple datasets, such as **financial constraints vs. MSME type**, to derive deeper insights.  
+   - **Append Queries**: Stacked data from **different years & sources** into a unified dataset.  
+   - **Handling Missing Data**: Applied **fill down, replace values, and remove errors** techniques to clean datasets.  
+
+3️⃣ **Loading into Power BI Desktop**  
+   - The transformed data was seamlessly **loaded into Power BI Desktop** for creating **interactive dashboards**.  
+   - Data model optimization was performed using **relationships between tables**, ensuring a **high-performance report**.  
+
+Power Query's powerful ETL capabilities allowed for **dynamic data integration**, making this project **scalable, automated, and insightful** for MSME analysis. 🚀  
+
+
+## 📂 Repository Structure
+```plaintext
+📁 India-MSME-Dynamics
+│── 📊 Power BI Dashboards
+│── 📜 README.md (Project Documentation)
+│── 📈 Data Insights & Reports
+│── 📁 Dashboard Images
+│── 📄 MSME_Data.csv
+```
 
 
 ---
@@ -95,27 +139,9 @@ This Power BI and Power Query project provides an in-depth analysis of **MSME (M
 
 ---
 
-## 🛠️ Technologies Used
-- **Power BI** (Data Visualization & Interactive Dashboards)
-- **Power Query** (Data Transformation & ETL Processing)
-- **Excel / CSV** (Data Storage & Preprocessing)
-- **GitHub** (Project Repository & Documentation)
-
-## 📂 Repository Structure
-```plaintext
-📁 India-MSME-Dynamics
-│── 📊 Power BI Dashboards
-│── 📜 README.md (Project Documentation)
-│── 📈 Data Insights & Reports
-│── 📁 Dashboard Images
-│── 📄 MSME_Data.csv
-```
-
----
 
 ## 📢 Connect & Collaborate
 🚀 If you're interested in MSME analytics, feel free to contribute, fork the repo, or reach out! 📩
 
 ---
 
-**⭐ Don't forget to Star the Repository if you find it useful! ⭐**
