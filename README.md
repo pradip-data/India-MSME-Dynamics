@@ -3,10 +3,12 @@
 ## 📌 Project Overview
 This Power BI and Power Query project provides an in-depth analysis of **MSME (Micro, Small, and Medium Enterprises) Growth, Contribution, and Financial Challenges in India**. The study explores MSME formalization, female entrepreneurship, manufacturing sector insights, employment trends, GDP contribution, and financial gaps.
 
-## 📁 Data Sources
-- Udyam Registration Portal (2020-2025)
-- Government Reports & Economic Surveys
-- Industry Research on MSME Financial Gaps
+## 📁 Data Sources  
+- **[Udyam Registration Portal](https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm)**
+- **[MSME Dashboard (Ministry of MSME)](https://dashboard.msme.gov.in/dashboard.aspx)**
+- Government Reports & Economic Surveys  
+- Industry Research on MSME Financial Gaps  
+
 
 ---
 
