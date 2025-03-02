@@ -11,6 +11,15 @@ This Power BI and Power Query project provides an in-depth analysis of **MSME (M
 - World Bank
 - Industry Research on MSME Financial Gaps  
 
+
+### 🔍 Key Areas of Analysis  
+- **📈 MSME Formalization:** Growth in **Udyam Registrations** and digital inclusion.  
+- **👩‍💼 Women Entrepreneurs:** Role of female-led businesses in MSME development.  
+- **🏭 Manufacturing Sector:** Contribution of **MSMEs to GDP, employment, and industry**.  
+- **🌍 Global MSME Comparison:** How India compares to other countries in **financial inclusion and policy support**.  
+- **📊 MSME Financial Gaps:** Identifying funding challenges and access to credit.  
+
+
 ## 🛠️ Technologies Used
 - **Power BI** (Data Visualization & Interactive Dashboards)
 - **Power Query** (Data Transformation & ETL Processing)
