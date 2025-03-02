@@ -1,6 +1,5 @@
-Power BI Desktop
-Analyzing MSME Growth, Contribution,
-and Financial Challenges in India
+Power BI Desktop Analyzing MSME Growth, Contribution, and Financial Challenges in India
+
 Main Source Of Data :
 (1) Data of State wise No. Of MSME Registration Under Udyam Portal - Ministry Of
 Micro, Small And Medium Enterprises in India
